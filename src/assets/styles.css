@@ -1,0 +1,122 @@
+#content{
+    overflow: hidden;
+	margin-top:30px;
+	border-radius: 2px;
+	background: white;
+	box-shadow: 0px 2px 5px #ccc;
+    padding: 0px;
+	
+}
+
+#header{
+	background: #E03137;
+	color: white;
+	margin:0px;
+	height: 90px;
+	line-height: 90px;
+}
+
+#header h1{
+	display: block;
+	line-height: 90px;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+#menu{
+	padding: 0px;
+	margin: 0px;
+    background: rgba(224, 49, 55, 0.67);
+    
+}
+
+#menu ul{
+	margin: 0px;
+	list-style: none;
+    padding-left: 20px;   
+}
+
+#menu ul li{
+    margin-right: 30px;
+    float: left; 
+}
+
+#menu ul li a{
+    display: block;
+    color:white;
+    height:25px;
+    line-height: 23px;
+    padding-left: 5px;
+    padding-right: 20px;
+    transition: 300ms; 
+}
+
+#menu ul li a:hover{
+    text-decoration: none;
+    background: rgba(224, 49, 55, 0.67);
+}
+
+.activado{
+    text-decoration: none;
+    border-bottom: 4px solid yellow;
+}
+
+#mail .jumbotron{
+    padding: 50px !important;
+    margin-top: 80px !important;
+    border-radius: 40px;
+    
+}
+
+#footer {
+    margin-top: 30px;
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+    color: gray;
+}
+/*#main h3{
+    height: 50px;
+    line-height: 100px;
+    font-size: 25px;
+}*/
+/*#content{
+    margin-top: 30px;
+    border-radius: 1px;
+    background: white;
+    box-shadow: 0px 2px 5px #ccc;
+    padding: 0px;
+    overflow: hidden;
+}
+#header{
+    background: #E03137;
+    color: white;
+    margin: 0px;
+    height: 90px;
+    line-height: 90px;
+}
+#header h1{
+    
+    display: block;
+    line-height: 80px;
+    font-weight: bold;
+    font-size: 30px
+}
+#nav {
+    padding: 0px;
+    margin: 3px;
+    display: block;
+    background: rgba(224,49,55,0.67);
+}
+#nav ul{
+    margin: 2px;
+    list-style: none;
+}
+
+#nav ul li{
+    float:left;
+    margin-right: 20px; 
+}
+#main {
+    padding: 0px;
+    margin: 0px;
+}*/
